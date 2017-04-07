@@ -3,5 +3,5 @@
     "browser": "index.d.ts",
     "version": "1.0.0",
     "global": true,
-    "name": "retyped-recaptcha-tsd-ambient"
+    "name": "recaptcha"
 }
